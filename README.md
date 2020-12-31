@@ -1,1 +1,3 @@
-# MUSA508_TOD-Assignment
+This analysis aims to determine whether households in Chicago, Illinois value transit-rich neighborhoods compared to other neighborhoods. Known as Transit Oriented Development (TOD), this type of urban development aims to maximize the amount of housing and amenities within walking distance of transit like bus stops, subways stations, and rail stations. Understanding whether renters and home buyers are willing to pay more to reside near transit can help cities manage zoning codes. If residents in Chicago prioritize living in transit-rich areas (i.e., areas within a half-mile of Chicago Transit Authority [CTA] stations) at the expense of housing cost, then the City may wish to update zoning codes to enable increased density around transit.
+
+See full analysis and results here.
